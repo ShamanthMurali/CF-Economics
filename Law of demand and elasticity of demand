@@ -1,1 +1,102 @@
-<mxfile host="app.diagrams.net" modified="2020-09-29T17:58:11.780Z" agent="5.0 (X11)" version="13.7.6" etag="zd-j4RsxNi6NwQeBdLpW" type="github"><diagram id="_rPWIaMjevgdJQ3DKOmQ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-29T18:38:47.879Z" agent="5.0 (X11)" etag="diQsfSokC4ECkx7hXVtK" version="13.7.6" type="github">
+  <diagram id="_rPWIaMjevgdJQ3DKOmQ" name="Page-1">
+    <mxGraphModel dx="1265" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bqlymtZV-MnsZqJPQ-bu-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bqlymtZV-MnsZqJPQ-bu-2" target="bqlymtZV-MnsZqJPQ-bu-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bqlymtZV-MnsZqJPQ-bu-2" value="THEORY OF DEMAND AND SUPPLY" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bqlymtZV-MnsZqJPQ-bu-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bqlymtZV-MnsZqJPQ-bu-4" target="bqlymtZV-MnsZqJPQ-bu-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bqlymtZV-MnsZqJPQ-bu-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bqlymtZV-MnsZqJPQ-bu-4" target="bqlymtZV-MnsZqJPQ-bu-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bqlymtZV-MnsZqJPQ-bu-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bqlymtZV-MnsZqJPQ-bu-5" target="bqlymtZV-MnsZqJPQ-bu-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bqlymtZV-MnsZqJPQ-bu-5" value="Determinants" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bqlymtZV-MnsZqJPQ-bu-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bqlymtZV-MnsZqJPQ-bu-6" target="bqlymtZV-MnsZqJPQ-bu-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bqlymtZV-MnsZqJPQ-bu-6" value="Law of Demand" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bqlymtZV-MnsZqJPQ-bu-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bqlymtZV-MnsZqJPQ-bu-7" target="bqlymtZV-MnsZqJPQ-bu-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bqlymtZV-MnsZqJPQ-bu-7" value="- Demand Schedule- Demand Curve" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bqlymtZV-MnsZqJPQ-bu-8" value="-&amp;nbsp; Expansion and Contraction of Demand-&amp;nbsp; Increase and Decrease in Demand" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="320" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bqlymtZV-MnsZqJPQ-bu-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bqlymtZV-MnsZqJPQ-bu-9" target="bqlymtZV-MnsZqJPQ-bu-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bqlymtZV-MnsZqJPQ-bu-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bqlymtZV-MnsZqJPQ-bu-9" target="bqlymtZV-MnsZqJPQ-bu-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bqlymtZV-MnsZqJPQ-bu-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bqlymtZV-MnsZqJPQ-bu-9" target="bqlymtZV-MnsZqJPQ-bu-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bqlymtZV-MnsZqJPQ-bu-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bqlymtZV-MnsZqJPQ-bu-9" target="bqlymtZV-MnsZqJPQ-bu-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bqlymtZV-MnsZqJPQ-bu-9" value="Elasticity of Demand" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bqlymtZV-MnsZqJPQ-bu-10" value="Income" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bqlymtZV-MnsZqJPQ-bu-11" value="Cross" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bqlymtZV-MnsZqJPQ-bu-12" value="Advertisement" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bqlymtZV-MnsZqJPQ-bu-13" value="Price" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bqlymtZV-MnsZqJPQ-bu-4" value="Demand" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="260" y="80" width="120" height="40" as="geometry">
+            <mxRectangle x="260" y="80" width="400" height="280" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bqlymtZV-MnsZqJPQ-bu-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bqlymtZV-MnsZqJPQ-bu-4">
+          <mxGeometry y="40" width="400" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="bqlymtZV-MnsZqJPQ-bu-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="bqlymtZV-MnsZqJPQ-bu-4" source="bqlymtZV-MnsZqJPQ-bu-40" target="bqlymtZV-MnsZqJPQ-bu-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bqlymtZV-MnsZqJPQ-bu-40" value="Effective Demand" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="bqlymtZV-MnsZqJPQ-bu-4">
+          <mxGeometry x="230" y="60" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bqlymtZV-MnsZqJPQ-bu-41" value="A desire to purchase" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="bqlymtZV-MnsZqJPQ-bu-4">
+          <mxGeometry x="20" y="120" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bqlymtZV-MnsZqJPQ-bu-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="bqlymtZV-MnsZqJPQ-bu-4" source="bqlymtZV-MnsZqJPQ-bu-39" target="bqlymtZV-MnsZqJPQ-bu-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bqlymtZV-MnsZqJPQ-bu-39" value="Want" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="bqlymtZV-MnsZqJPQ-bu-4">
+          <mxGeometry x="45" y="60" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bqlymtZV-MnsZqJPQ-bu-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="bqlymtZV-MnsZqJPQ-bu-4" source="bqlymtZV-MnsZqJPQ-bu-42" target="bqlymtZV-MnsZqJPQ-bu-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bqlymtZV-MnsZqJPQ-bu-42" value="A willingness desire to purchase a commodity backed by purchasing power." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="bqlymtZV-MnsZqJPQ-bu-4">
+          <mxGeometry x="205" y="120" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bqlymtZV-MnsZqJPQ-bu-45" value="A beggar, for instance, may desire food, but due to lack of means to purchase it, his demand is not effective. " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="bqlymtZV-MnsZqJPQ-bu-4">
+          <mxGeometry x="205" y="200" width="170" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
