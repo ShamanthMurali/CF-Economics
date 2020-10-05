@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-05T19:25:21.391Z" agent="5.0 (X11)" etag="rXhDjvcNeis7uczSDZgg" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-05T20:07:03.457Z" agent="5.0 (X11)" etag="aih2kWxcTbMI5LYD_dPj" version="13.7.7" type="github">
   <diagram id="_rPWIaMjevgdJQ3DKOmQ" name="Page-1">
-    <mxGraphModel dx="874" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1056" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -869,7 +869,7 @@
         <mxCell id="2H2zziNgfAaaCqwFJEZ2-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2H2zziNgfAaaCqwFJEZ2-62" target="2H2zziNgfAaaCqwFJEZ2-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="Types of demand" treeRoot="1" id="2H2zziNgfAaaCqwFJEZ2-62">
+        <UserObject label="&lt;u&gt;&lt;b&gt;Types of demand&lt;/b&gt;&lt;/u&gt;" treeRoot="1" id="2H2zziNgfAaaCqwFJEZ2-62">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
             <mxGeometry x="1200" y="520" width="120" height="40" as="geometry" />
           </mxCell>
@@ -953,6 +953,91 @@
         </mxCell>
         <mxCell id="2H2zziNgfAaaCqwFJEZ2-94" value="&amp;nbsp;which are used for the production of other goods" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2H2zziNgfAaaCqwFJEZ2-63">
           <mxGeometry y="40" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2H2zziNgfAaaCqwFJEZ2-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2H2zziNgfAaaCqwFJEZ2-104" target="2H2zziNgfAaaCqwFJEZ2-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2H2zziNgfAaaCqwFJEZ2-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2H2zziNgfAaaCqwFJEZ2-104" target="2H2zziNgfAaaCqwFJEZ2-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2H2zziNgfAaaCqwFJEZ2-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2H2zziNgfAaaCqwFJEZ2-104" target="2H2zziNgfAaaCqwFJEZ2-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2H2zziNgfAaaCqwFJEZ2-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2H2zziNgfAaaCqwFJEZ2-104" target="2H2zziNgfAaaCqwFJEZ2-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2H2zziNgfAaaCqwFJEZ2-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2H2zziNgfAaaCqwFJEZ2-104" target="2H2zziNgfAaaCqwFJEZ2-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2H2zziNgfAaaCqwFJEZ2-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2H2zziNgfAaaCqwFJEZ2-104" target="2H2zziNgfAaaCqwFJEZ2-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2H2zziNgfAaaCqwFJEZ2-104" value="&lt;u&gt;&lt;b&gt;&amp;nbsp;Methods of demand Forecasting&lt;br&gt;&lt;/b&gt;&lt;/u&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="920" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2H2zziNgfAaaCqwFJEZ2-105" value="iii)&amp;nbsp; Expert&amp;nbsp; Opinion&amp;nbsp; method" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2H2zziNgfAaaCqwFJEZ2-106" value="iv)&amp;nbsp; Statistical methods" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2H2zziNgfAaaCqwFJEZ2-107" value="v)&amp;nbsp; Controlled&amp;nbsp; Experiments" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2H2zziNgfAaaCqwFJEZ2-108" value="vi) Barometric&amp;nbsp; method&amp;nbsp; of forecasting" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2H2zziNgfAaaCqwFJEZ2-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2H2zziNgfAaaCqwFJEZ2-109" target="2H2zziNgfAaaCqwFJEZ2-117" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2H2zziNgfAaaCqwFJEZ2-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2H2zziNgfAaaCqwFJEZ2-109" target="2H2zziNgfAaaCqwFJEZ2-118" visible="0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="910" y="1080" />
+              <mxPoint x="770" y="1080" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2H2zziNgfAaaCqwFJEZ2-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2H2zziNgfAaaCqwFJEZ2-109" target="2H2zziNgfAaaCqwFJEZ2-119" visible="0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="910" y="1080" />
+              <mxPoint x="1050" y="1080" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2H2zziNgfAaaCqwFJEZ2-109" value="&lt;div&gt;i)&amp;nbsp; Survey&amp;nbsp; of&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;Buyers’&amp;nbsp; Intentions&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="850" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2H2zziNgfAaaCqwFJEZ2-110" value="ii) Collective opinion method" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" parent="1">
+          <mxGeometry x="990" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2H2zziNgfAaaCqwFJEZ2-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2H2zziNgfAaaCqwFJEZ2-117" target="2H2zziNgfAaaCqwFJEZ2-124" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2H2zziNgfAaaCqwFJEZ2-117" value="&amp;nbsp;Sample survey method" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="850" y="1100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2H2zziNgfAaaCqwFJEZ2-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2H2zziNgfAaaCqwFJEZ2-118" target="2H2zziNgfAaaCqwFJEZ2-123" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2H2zziNgfAaaCqwFJEZ2-118" value="&amp;nbsp; Complete enumeration method" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="710" y="1100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2H2zziNgfAaaCqwFJEZ2-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2H2zziNgfAaaCqwFJEZ2-119" target="2H2zziNgfAaaCqwFJEZ2-127" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2H2zziNgfAaaCqwFJEZ2-119" value="&lt;div&gt;End–use &lt;br&gt;&lt;/div&gt;&lt;div&gt;method&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="990" y="1100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2H2zziNgfAaaCqwFJEZ2-123" value="&amp;nbsp;all potential customers are interviewed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="710" y="1160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2H2zziNgfAaaCqwFJEZ2-124" value="&lt;div&gt;scientifically chosen sample of potential&lt;/div&gt;&lt;div&gt;customers are interviewed &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="850" y="1160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2H2zziNgfAaaCqwFJEZ2-127" value="&amp;nbsp;Final customers are interviewed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="990" y="1160" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
