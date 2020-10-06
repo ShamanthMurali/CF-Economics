@@ -1,1 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2020-10-06T16:59:52.699Z" agent="5.0 (X11)" version="13.7.7" etag="4r6XL7bki7upvlx1Sl6b" type="github"><diagram id="ERrYl9bGBSlPgG6b0YfE">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-06T19:15:56.479Z" agent="5.0 (X11)" etag="k9JgnwJq-IgLB4UdRo34" version="13.7.7" type="github">
+  <diagram id="ERrYl9bGBSlPgG6b0YfE" name="Page-1">
+    <mxGraphModel dx="1260" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Mtz-7Ik0E2gPEYBZ-7HE-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mtz-7Ik0E2gPEYBZ-7HE-1" target="Mtz-7Ik0E2gPEYBZ-7HE-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mtz-7Ik0E2gPEYBZ-7HE-1" value="Supply" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mtz-7Ik0E2gPEYBZ-7HE-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mtz-7Ik0E2gPEYBZ-7HE-2" target="Mtz-7Ik0E2gPEYBZ-7HE-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mtz-7Ik0E2gPEYBZ-7HE-2" value="it refers&amp;nbsp; to&amp;nbsp; the&amp;nbsp; amount&amp;nbsp; of&amp;nbsp; a&amp;nbsp; good&amp;nbsp; or&amp;nbsp; service&amp;nbsp; that&amp;nbsp; the&amp;nbsp; producers are willing and able to offer to the market at various prices during a given period of time. " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="60" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Mtz-7Ik0E2gPEYBZ-7HE-4" value="Determinants&#xa; of supply" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="360" y="150" width="120" height="40" as="geometry">
+            <mxRectangle x="360" y="150" width="570" height="340" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mtz-7Ik0E2gPEYBZ-7HE-5" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;(i) Price&amp;nbsp; of&amp;nbsp; the&amp;nbsp; good:&amp;nbsp;&lt;/b&gt; Other&amp;nbsp; things&amp;nbsp; being&amp;nbsp; equal,&amp;nbsp; the&amp;nbsp; higher&amp;nbsp; the&amp;nbsp; relative&amp;nbsp; price&amp;nbsp; of&amp;nbsp; a&amp;nbsp; good&amp;nbsp; the&amp;nbsp; greater&amp;nbsp; the&amp;nbsp; quantity of it that will be supplied. &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;(ii) Prices of related goods:&lt;/b&gt; For&amp;nbsp; example,&amp;nbsp; if&amp;nbsp; price&amp;nbsp; of&amp;nbsp; wheat&amp;nbsp; rises,&amp;nbsp; the&amp;nbsp; farmers&amp;nbsp; may&amp;nbsp; shift&amp;nbsp; their&amp;nbsp; land&amp;nbsp; to&amp;nbsp; wheat&amp;nbsp; production away from corn and soya beans&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;(iii) Prices of factors of production:&amp;nbsp;&lt;/b&gt; rise in the price of a particular factor of production will cause an increase in the cost of making those goods&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;(iv) State&amp;nbsp; of&amp;nbsp; technology: &lt;/b&gt;Inventions and innovations tend to make it possible to produce more or better goods with the same resources&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;(v) Government Policy&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;(vi) Nature of competition and size of industry&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Other Factors:&lt;/b&gt;&amp;nbsp; government’s industrial and foreign policies, goals of the rm, infrastructural facilities, natural factors such as weather, floods, earthquake and man-made factors such as war, labour strikes, communal riots and etc. &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="Mtz-7Ik0E2gPEYBZ-7HE-4">
+          <mxGeometry y="40" width="570" height="300" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
