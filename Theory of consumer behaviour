@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-06T15:41:28.964Z" agent="5.0 (X11)" etag="ru6_CARTaQDt-7Vra0bq" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-06T15:46:20.635Z" agent="5.0 (X11)" etag="ZF_EkfgysjYod4oaIZsI" version="13.7.7" type="github">
   <diagram id="-qFu1jaZjecw4qHAGNsJ" name="Page-1">
-    <mxGraphModel dx="1259" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="315" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -288,6 +288,21 @@
         </mxCell>
         <mxCell id="aEMJVCsxIUwc2dx0Lzib-21" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Total utility:&lt;/b&gt;&lt;/u&gt; total&amp;nbsp; utility&amp;nbsp; is&amp;nbsp; the&amp;nbsp; sum&amp;nbsp; of utilities derived from the consumption of different units i.e.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;TU= MU1+MU2+.....+MUn &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Where MU1, MU2,.....,MUn etc are marginal utilities of the successive units of a commodity.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Marginal utility:&lt;/b&gt;&lt;/u&gt; utility derived from the marginal or one additional unit consumed or possessed by the individual.&lt;/div&gt;&lt;div&gt;MUn = TUn&amp;nbsp; - TUn-1&lt;/div&gt;&lt;div&gt;Where,&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;MUn is the marginal utility of the nth unit, &lt;br&gt;&lt;/div&gt;&lt;div&gt;TUn is the total utility of the nth unit, and&lt;/div&gt;&lt;div&gt;TUn-1 is the total utility of the (n-1)th unit.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Assumptions of Marginal Utility Analysis&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;1) Rationality: A consumer is rational andattempts to attain maximum satisfaction from his limited money income.&lt;/div&gt;&lt;div&gt;2)&amp;nbsp;&amp;nbsp; Cardinal&amp;nbsp; Measurability&amp;nbsp; of&amp;nbsp; Utility: utility&amp;nbsp; is&amp;nbsp; a&amp;nbsp; cardinal&amp;nbsp; concept&amp;nbsp; i.e.,&amp;nbsp; utility&amp;nbsp; is&amp;nbsp; a&amp;nbsp; measurable&amp;nbsp; and&amp;nbsp; quantifiable&amp;nbsp; entity.&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3) The&amp;nbsp;&amp;nbsp; marginal&amp;nbsp;&amp;nbsp; utility&amp;nbsp;&amp;nbsp; of&amp;nbsp;&amp;nbsp; money&amp;nbsp;&amp;nbsp; remains&amp;nbsp;&amp;nbsp; constant&amp;nbsp;&amp;nbsp; throughout when the individual is spending money on a good. &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aEMJVCsxIUwc2dx0Lzib-17">
           <mxGeometry y="40" width="300" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="aEMJVCsxIUwc2dx0Lzib-97" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aEMJVCsxIUwc2dx0Lzib-98" value="&lt;div&gt;▲&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;concave&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="20" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aEMJVCsxIUwc2dx0Lzib-102" value="&lt;div&gt;▼&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;concave&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="20" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aEMJVCsxIUwc2dx0Lzib-103" value="&lt;div&gt;▲&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;convex&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="60" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aEMJVCsxIUwc2dx0Lzib-105" value="&lt;div&gt;▼&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;convex&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="60" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
