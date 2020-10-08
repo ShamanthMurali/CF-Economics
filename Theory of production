@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-08T09:29:17.122Z" agent="5.0 (X11)" etag="kPbYCojRgjMpcKQb1bJK" version="13.7.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-08T14:26:05.238Z" agent="5.0 (X11)" etag="0PsK9OVN-wtZGbmdu6or" version="13.7.8" type="github">
   <diagram id="7tNHFrS32zcFMoKy89x1" name="Page-1">
-    <mxGraphModel dx="2100" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="19988" dy="5713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,9 +30,6 @@
         </mxCell>
         <mxCell id="d15cTz0i-o1_dqdetVhK-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="d15cTz0i-o1_dqdetVhK-7" target="d15cTz0i-o1_dqdetVhK-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="d15cTz0i-o1_dqdetVhK-7" value="Production Function" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="130" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d15cTz0i-o1_dqdetVhK-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="d15cTz0i-o1_dqdetVhK-8" target="d15cTz0i-o1_dqdetVhK-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -64,53 +61,44 @@
         <mxCell id="d15cTz0i-o1_dqdetVhK-10" value="Production Optimisation" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-680" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aUUtMNANvs-kDLbaaxDq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d15cTz0i-o1_dqdetVhK-11" target="aUUtMNANvs-kDLbaaxDq-5" visible="0">
+        <mxCell id="aUUtMNANvs-kDLbaaxDq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="d15cTz0i-o1_dqdetVhK-11" target="aUUtMNANvs-kDLbaaxDq-5" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="d15cTz0i-o1_dqdetVhK-11" value="Labour" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="-360" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aUUtMNANvs-kDLbaaxDq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d15cTz0i-o1_dqdetVhK-12" target="aUUtMNANvs-kDLbaaxDq-7" visible="0">
+        <mxCell id="aUUtMNANvs-kDLbaaxDq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="d15cTz0i-o1_dqdetVhK-12" target="aUUtMNANvs-kDLbaaxDq-7" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="d15cTz0i-o1_dqdetVhK-12" value="Capital" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="-220" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aUUtMNANvs-kDLbaaxDq-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d15cTz0i-o1_dqdetVhK-13" target="aUUtMNANvs-kDLbaaxDq-11" visible="0">
+        <mxCell id="aUUtMNANvs-kDLbaaxDq-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="d15cTz0i-o1_dqdetVhK-13" target="aUUtMNANvs-kDLbaaxDq-11" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="d15cTz0i-o1_dqdetVhK-13" value="Enterpreneur" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="-80" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aUUtMNANvs-kDLbaaxDq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d15cTz0i-o1_dqdetVhK-14" target="aUUtMNANvs-kDLbaaxDq-3" visible="0">
+        <mxCell id="aUUtMNANvs-kDLbaaxDq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="d15cTz0i-o1_dqdetVhK-14" target="aUUtMNANvs-kDLbaaxDq-3" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="d15cTz0i-o1_dqdetVhK-14" value="Land" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="-500" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="d15cTz0i-o1_dqdetVhK-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="d15cTz0i-o1_dqdetVhK-15" target="d15cTz0i-o1_dqdetVhK-18" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="d15cTz0i-o1_dqdetVhK-15" value="Long Run" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="240" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="d15cTz0i-o1_dqdetVhK-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="d15cTz0i-o1_dqdetVhK-16" target="d15cTz0i-o1_dqdetVhK-17" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="d15cTz0i-o1_dqdetVhK-16" value="Short Run" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d15cTz0i-o1_dqdetVhK-17" value="Law of Variable Proportions" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="60" y="300" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="d15cTz0i-o1_dqdetVhK-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="d15cTz0i-o1_dqdetVhK-18" target="d15cTz0i-o1_dqdetVhK-19" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="40" y="500" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d15cTz0i-o1_dqdetVhK-18" value="Returns&amp;nbsp; to Scale" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="300" width="120" height="40" as="geometry" />
+          <mxGeometry x="200" y="460" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d15cTz0i-o1_dqdetVhK-19" value="Economies and Dis-economies of Scale" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="360" width="120" height="40" as="geometry" />
+          <mxGeometry x="330" y="320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d15cTz0i-o1_dqdetVhK-20" value="Cost Concepts" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="160" width="120" height="40" as="geometry" />
@@ -142,29 +130,54 @@
         <mxCell id="d15cTz0i-o1_dqdetVhK-26" value="Variable" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="730" y="260" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aUUtMNANvs-kDLbaaxDq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aUUtMNANvs-kDLbaaxDq-1" target="d15cTz0i-o1_dqdetVhK-14">
+        <mxCell id="aUUtMNANvs-kDLbaaxDq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="aUUtMNANvs-kDLbaaxDq-1" target="d15cTz0i-o1_dqdetVhK-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aUUtMNANvs-kDLbaaxDq-1" value="Requires no human endeavour" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="aUUtMNANvs-kDLbaaxDq-1" value="Requires no human endeavour" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-640" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aUUtMNANvs-kDLbaaxDq-3" value="&lt;div&gt;(i)&amp;nbsp;&amp;nbsp;&amp;nbsp; Land is a free gift of nature: No human effort is required for making land available for production.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(ii) Supply of land is fixed: Land is strictly limited in quantity.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(iii)&amp;nbsp; Land&amp;nbsp; is&amp;nbsp; permanent&amp;nbsp; and&amp;nbsp; has&amp;nbsp; indestructible&amp;nbsp; powers&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(iv)&amp;nbsp; Land is a passive factor: Land is not an active factor. Unless human effort is exercised on land, it does not produce anything on its own. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(v)&amp;nbsp;&amp;nbsp; Land&amp;nbsp; is&amp;nbsp; immobile&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(vi)&amp;nbsp; Land has multiple uses: and can be used for varied purposes, though its suitability in all the uses is not the same.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(vii)Land is heterogeneous: No two pieces of land are alike. They differ in fertility and situation.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="aUUtMNANvs-kDLbaaxDq-3" value="&lt;div&gt;(i)&amp;nbsp;&amp;nbsp;&amp;nbsp; Land is a free gift of nature: No human effort is required for making land available for production.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(ii) Supply of land is fixed: Land is strictly limited in quantity.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(iii)&amp;nbsp; Land&amp;nbsp; is&amp;nbsp; permanent&amp;nbsp; and&amp;nbsp; has&amp;nbsp; indestructible&amp;nbsp; powers&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(iv)&amp;nbsp; Land is a passive factor: Land is not an active factor. Unless human effort is exercised on land, it does not produce anything on its own. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(v)&amp;nbsp;&amp;nbsp; Land&amp;nbsp; is&amp;nbsp; immobile&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(vi)&amp;nbsp; Land has multiple uses: and can be used for varied purposes, though its suitability in all the uses is not the same.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(vii)Land is heterogeneous: No two pieces of land are alike. They differ in fertility and situation.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-660" y="310" width="440" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="aUUtMNANvs-kDLbaaxDq-5" value="&lt;div&gt;(1) Human Effort&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; (2)&amp;nbsp;&amp;nbsp; Labour&amp;nbsp; is&amp;nbsp; perishable: a labourer cannot store his labour.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(3)&amp;nbsp;&amp;nbsp; Labour is an active factor: Without the active participation of labour, land and capital may not produce anything. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(4)&amp;nbsp;&amp;nbsp; Labour is inseparable from the labourer: A labourer is the source of his own labour power.&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(5)&amp;nbsp;&amp;nbsp; Labour power differs from labourer to labourer: Labour power or eciency of labour depends upon the labourers’ inherent and acquired qualities, characteristics of work environment, and incentive to work.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(6)&amp;nbsp;&amp;nbsp; All labour may not be productive: (i.e.) all efforts are not sure to produce resources&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(7)&amp;nbsp;&amp;nbsp; Labour&amp;nbsp; has&amp;nbsp; poor&amp;nbsp; bargaining&amp;nbsp; power&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(8) Labour is mobile: workers can move from one job to another or from one place to another. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(9)&amp;nbsp; The&amp;nbsp; total&amp;nbsp; supply&amp;nbsp; of&amp;nbsp; labour&amp;nbsp; cannot be increased or decreased instantly.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(10) Choice&amp;nbsp; between&amp;nbsp; hours&amp;nbsp; of&amp;nbsp; labour&amp;nbsp; and&amp;nbsp; hours&amp;nbsp; of&amp;nbsp; leisure&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="aUUtMNANvs-kDLbaaxDq-5" value="&lt;div&gt;(1) Human Effort&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; (2)&amp;nbsp;&amp;nbsp; Labour&amp;nbsp; is&amp;nbsp; perishable: a labourer cannot store his labour.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(3)&amp;nbsp;&amp;nbsp; Labour is an active factor: Without the active participation of labour, land and capital may not produce anything. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(4)&amp;nbsp;&amp;nbsp; Labour is inseparable from the labourer: A labourer is the source of his own labour power.&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(5)&amp;nbsp;&amp;nbsp; Labour power differs from labourer to labourer: Labour power or eciency of labour depends upon the labourers’ inherent and acquired qualities, characteristics of work environment, and incentive to work.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(6)&amp;nbsp;&amp;nbsp; All labour may not be productive: (i.e.) all efforts are not sure to produce resources&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(7)&amp;nbsp;&amp;nbsp; Labour&amp;nbsp; has&amp;nbsp; poor&amp;nbsp; bargaining&amp;nbsp; power&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(8) Labour is mobile: workers can move from one job to another or from one place to another. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(9)&amp;nbsp; The&amp;nbsp; total&amp;nbsp; supply&amp;nbsp; of&amp;nbsp; labour&amp;nbsp; cannot be increased or decreased instantly.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(10) Choice&amp;nbsp; between&amp;nbsp; hours&amp;nbsp; of&amp;nbsp; labour&amp;nbsp; and&amp;nbsp; hours&amp;nbsp; of&amp;nbsp; leisure&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-510" y="300" width="420" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="aUUtMNANvs-kDLbaaxDq-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aUUtMNANvs-kDLbaaxDq-7" target="aUUtMNANvs-kDLbaaxDq-9" visible="0">
+        <mxCell id="aUUtMNANvs-kDLbaaxDq-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aUUtMNANvs-kDLbaaxDq-7" target="aUUtMNANvs-kDLbaaxDq-9" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aUUtMNANvs-kDLbaaxDq-7" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Types of Capital:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Fixed capital &lt;/b&gt;&lt;/u&gt;is that which exists in a durable shape and renders a series of services over a period of time. For example tools, machines, etc.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Circulating capital&lt;/b&gt;&lt;/u&gt; is another form of capital which performs its function in production in a single use and is not available for further use. For example, seeds, fuel, raw materials, etc.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Real capital &lt;/b&gt;&lt;/u&gt;refers to physical goods such as building, plant, machines, etc.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Human&amp;nbsp; capital&lt;/b&gt;&lt;/u&gt;&amp;nbsp; refers&amp;nbsp; to&amp;nbsp; human&amp;nbsp; skill&amp;nbsp; and&amp;nbsp; ability.&amp;nbsp; This&amp;nbsp; is&amp;nbsp; called&amp;nbsp; human&amp;nbsp; capital&amp;nbsp; because&amp;nbsp; a&amp;nbsp; good&amp;nbsp; deal&amp;nbsp; of&amp;nbsp; investment has gone into creation of these abilities in humans.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Tangible capital&lt;/b&gt;&lt;/u&gt; can be perceived by senses whereas intangible capital is in the form of certain rights and benefits which cannot be perceived by senses. For example, patents, goodwill, patent rights, etc. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Individual capital&lt;/b&gt;&lt;/u&gt; is personal property owned by an individual or a group of individuals. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Social Capital&lt;/b&gt;&lt;/u&gt; is what belongs to the society as a whole in the form of roads, bridges, etc. &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="aUUtMNANvs-kDLbaaxDq-7" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Types of Capital:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Fixed capital &lt;/b&gt;&lt;/u&gt;is that which exists in a durable shape and renders a series of services over a period of time. For example tools, machines, etc.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Circulating capital&lt;/b&gt;&lt;/u&gt; is another form of capital which performs its function in production in a single use and is not available for further use. For example, seeds, fuel, raw materials, etc.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Real capital &lt;/b&gt;&lt;/u&gt;refers to physical goods such as building, plant, machines, etc.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Human&amp;nbsp; capital&lt;/b&gt;&lt;/u&gt;&amp;nbsp; refers&amp;nbsp; to&amp;nbsp; human&amp;nbsp; skill&amp;nbsp; and&amp;nbsp; ability.&amp;nbsp; This&amp;nbsp; is&amp;nbsp; called&amp;nbsp; human&amp;nbsp; capital&amp;nbsp; because&amp;nbsp; a&amp;nbsp; good&amp;nbsp; deal&amp;nbsp; of&amp;nbsp; investment has gone into creation of these abilities in humans.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Tangible capital&lt;/b&gt;&lt;/u&gt; can be perceived by senses whereas intangible capital is in the form of certain rights and benefits which cannot be perceived by senses. For example, patents, goodwill, patent rights, etc. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Individual capital&lt;/b&gt;&lt;/u&gt; is personal property owned by an individual or a group of individuals. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Social Capital&lt;/b&gt;&lt;/u&gt; is what belongs to the society as a whole in the form of roads, bridges, etc. &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-435" y="300" width="550" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="aUUtMNANvs-kDLbaaxDq-9" value="&lt;div&gt;Stages of capital formation: &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Savings: The basic factor on which formation of capital depends is the ability to save. The ability to save depends upon the income of an individual. Higher incomes are generally followed by higher savings. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Mobilization of savings: It is not enough that people save money; the saved money should enter into circulation and facilitate the process of capital formation.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Investment: The process of capital formation gets completed only when the real savings get converted into real capital assets.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="aUUtMNANvs-kDLbaaxDq-9" value="&lt;div&gt;Stages of capital formation: &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Savings: The basic factor on which formation of capital depends is the ability to save. The ability to save depends upon the income of an individual. Higher incomes are generally followed by higher savings. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Mobilization of savings: It is not enough that people save money; the saved money should enter into circulation and facilitate the process of capital formation.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Investment: The process of capital formation gets completed only when the real savings get converted into real capital assets.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-435" y="640" width="550" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="aUUtMNANvs-kDLbaaxDq-11" value="&lt;div&gt;(i) Initiating&amp;nbsp;&amp;nbsp; business&amp;nbsp;&amp;nbsp; enterprise&amp;nbsp;&amp;nbsp; and&amp;nbsp;&amp;nbsp; resource&amp;nbsp;&amp;nbsp; co-ordination&lt;/div&gt;&lt;div&gt;(ii) Risk bearing or uncertainty bearing&lt;/div&gt;(iii) Innovations:&amp;nbsp; The true function of an entrepreneur is to introduce innovations. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="aUUtMNANvs-kDLbaaxDq-11" value="&lt;div&gt;(i) Initiating&amp;nbsp;&amp;nbsp; business&amp;nbsp;&amp;nbsp; enterprise&amp;nbsp;&amp;nbsp; and&amp;nbsp;&amp;nbsp; resource&amp;nbsp;&amp;nbsp; co-ordination&lt;/div&gt;&lt;div&gt;(ii) Risk bearing or uncertainty bearing&lt;/div&gt;(iii) Innovations:&amp;nbsp; The true function of an entrepreneur is to introduce innovations. " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-160" y="300" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2qaFljnpOSfRU8PtaUko-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2qaFljnpOSfRU8PtaUko-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2qaFljnpOSfRU8PtaUko-1" value="&lt;div&gt;Land - Fixed&lt;/div&gt;&lt;div&gt;capital - Fixed&lt;/div&gt;Rest are variable" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="300" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2qaFljnpOSfRU8PtaUko-3" value="&lt;div&gt;All factors are variable&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="300" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="d15cTz0i-o1_dqdetVhK-7" value="&lt;div&gt;Production &lt;br&gt;&lt;/div&gt;&lt;div&gt;Function&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="130" y="160" width="100" height="40" as="geometry">
+            <mxRectangle x="130" y="160" width="350" height="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2qaFljnpOSfRU8PtaUko-8" value="&lt;div&gt;The production function is a statement of the relationship between a firm’s scarce resources (i.e. its inputs) and&amp;nbsp; the&amp;nbsp; output&amp;nbsp; that&amp;nbsp; results&amp;nbsp; from&amp;nbsp; the&amp;nbsp; use&amp;nbsp; of&amp;nbsp; these&amp;nbsp; resources.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Q = f (a, b, c, d .......n)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Where&amp;nbsp; ‘Q’&amp;nbsp; stands&amp;nbsp; for&amp;nbsp; the&amp;nbsp; rate&amp;nbsp; of&amp;nbsp; output&amp;nbsp; of&amp;nbsp; given&amp;nbsp; commodity&amp;nbsp; and&amp;nbsp; a,&amp;nbsp; b,&amp;nbsp; c,&amp;nbsp; d.......n,&amp;nbsp; are&amp;nbsp; the&amp;nbsp; different&amp;nbsp; factors&amp;nbsp; (inputs) and services used per unit of time.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="d15cTz0i-o1_dqdetVhK-7">
+          <mxGeometry y="40" width="350" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="2qaFljnpOSfRU8PtaUko-9" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2qaFljnpOSfRU8PtaUko-10" value="Text" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3960" y="730" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
