@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-13T14:04:50.162Z" agent="5.0 (X11)" etag="4ejGUDxiAi7WcHnfxHQZ" version="13.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-13T14:21:52.264Z" agent="5.0 (X11)" etag="hTU1Ci3xOzY-c8Y6SGpp" version="13.9.7" type="github">
   <diagram id="pKNBnADBg5klmjk6S7sR" name="Page-1">
     <mxGraphModel dx="764" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -206,9 +206,11 @@
         <mxCell id="Oq0PxWh6ScK9SH5HqCjC-2" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.link;fillColor=#2A2A2A;" parent="1" vertex="1">
           <mxGeometry x="700" y="150" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Oq0PxWh6ScK9SH5HqCjC-3" value="&lt;div&gt;Kinked demand &lt;br&gt;&lt;/div&gt;&lt;div&gt;curve&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="200" width="120" height="40" as="geometry" />
-        </mxCell>
+        <UserObject label="&lt;div&gt;Kinked demand &lt;br&gt;&lt;/div&gt;&lt;div&gt;curve&lt;br&gt;&lt;/div&gt;" link="https://youtu.be/bvQ_PuHiuJo" id="Oq0PxWh6ScK9SH5HqCjC-3">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="600" y="200" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="Oq0PxWh6ScK9SH5HqCjC-4" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.link;fillColor=#2A2A2A;" parent="1" vertex="1">
           <mxGeometry x="700" y="210" width="30" height="30" as="geometry" />
         </mxCell>
