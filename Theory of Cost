@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-13T00:38:14.697Z" agent="5.0 (X11)" etag="mzNXTZqH-EYTQ5NggV-o" version="13.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-13T00:47:52.088Z" agent="5.0 (X11)" etag="zXleBVtRLffTZ4YY8kgu" version="13.9.7" type="github">
   <diagram id="4nm1gQEqlTS2Y_cYBamH" name="Page-1">
-    <mxGraphModel dx="923" dy="353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="308" dy="164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -227,7 +227,7 @@
         <mxCell id="RKChWjIPjh0LIImSi5Bu-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="RKChWjIPjh0LIImSi5Bu-61" target="RKChWjIPjh0LIImSi5Bu-70" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RKChWjIPjh0LIImSi5Bu-61" value="&lt;div&gt;Average total cost (ATC)&lt;/div&gt;&lt;div&gt;&lt;b&gt;ATC = AFC + AVC&lt;/b&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;&lt;b&gt;TC = TC/Q&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#2A2A2A;" parent="1" vertex="1">
+        <mxCell id="RKChWjIPjh0LIImSi5Bu-61" value="&lt;div&gt;Average total cost (ATC)&lt;/div&gt;&lt;div&gt;&lt;b&gt;ATC = AFC + AVC&lt;/b&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;&lt;b&gt;AC = TC/Q&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#2A2A2A;" parent="1" vertex="1">
           <mxGeometry x="516.66" y="360" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="RKChWjIPjh0LIImSi5Bu-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RKChWjIPjh0LIImSi5Bu-63" target="RKChWjIPjh0LIImSi5Bu-67" edge="1">
